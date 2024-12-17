@@ -1,6 +1,6 @@
 ---
 title: الإبتكار
-slug: case-study-1
+slug: الإبتكار
 date: '2022-01-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
